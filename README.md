@@ -64,7 +64,7 @@ An agent-readable merchant catalog with a bounded AI-buyer checkout flow.
 ### 📫 Reach Me
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/your-leetcode"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
+  <a href="mailto:a2ashishraaz007@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href=""https://www.linkedin.com/in/ashish-kumar-7656952a8/><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/A2as/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
 </p>
